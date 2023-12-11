@@ -9,25 +9,22 @@ P{color: rgb(0, 0, 0);}
     ol{text-align-last: left;font-size: 20px;font-family: 'Times New Roman';}
 
 
-#oi{
-    position: fixed;
+#oi{position: fixed;
     top: 30px;
     left: 30px;
     font-size: 20px;
     font-family: 'Times New Roman';}
-.subtópico{
-    color: red;
-    background-color: rgb(71, 218, 218);
-    text-align: center;
-}
 
-#ki{
-    color: blue;
-}
-#Mens{
-    width: 350px; 
+.subtópico{color: red;
+    background-color: rgb(71, 218, 218);
+    text-align: center;}
+
+#ki{color: blue;}
+
+#Mens{width: 350px; 
     height: 60px;
     position:absolute;
-    text-align: center;
-}
+    text-align: center;}
+    
 body{background-color:rgb(255, 251, 202) ; padding: 10px;}
+#Produtos{font-size: 80px;}
