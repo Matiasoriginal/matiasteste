@@ -1,6 +1,5 @@
 P{color: rgb(0, 0, 0);}
-    P{font: 1em sans-serif;}
-    P{text-align: center;}
+    P{font-family: 'Times New Roman';text-align: center;}
 
     h1{font-family: 'Times New Roman'; font-size: 40px; color: brown;text-align: center;}
 
@@ -15,16 +14,22 @@ P{color: rgb(0, 0, 0);}
     font-size: 20px;
     font-family: 'Times New Roman';}
 
-.subtópico{color: red;
+.subtópico{color: rgb(0, 0, 0);
     background-color: rgb(71, 218, 218);
     text-align: center;}
 
 #ki{color: blue;}
 
-#Mens{width: 350px; 
-    height: 60px;
+#Mens{width: 320px; 
+    height: 400px;
     position:absolute;
     text-align: center;}
     
-body{background-color:rgb(255, 251, 202) ; padding: 10px;}
-#Produtos{font-size: 80px;}
+body{background-color:rgb(255, 251, 202) ; padding: 10px;max-width: 1300px;max: height 400px;}
+
+.Produtos{font-size: 30px;}
+#maisopções{font-size: 30px;}
+
+#mudarpg{font-size: 45px; color: rgb(255, 0, 0);}
+
+footer{font-size: 25px;}
