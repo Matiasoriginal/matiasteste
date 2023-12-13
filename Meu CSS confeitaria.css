@@ -19,17 +19,13 @@ P{color: rgb(0, 0, 0);}
     text-align: center;}
 
 #ki{color: blue;}
-
-#Mens{width: 320px; 
-    height: 400px;
-    position:absolute;
-    text-align: center;}
     
-body{background-color:rgb(255, 251, 202) ; padding: 10px;max-width: 1300px;max: height 400px;}
+body{background-color:rgb(255, 251, 202) ; padding: 10px;min: width 600px;max-width: 1800px;min-height:380px;max-height: 700px;}
 
 .Produtos{font-size: 30px;}
-#maisopções{font-size: 30px;}
 
-#mudarpg{font-size: 45px; color: rgb(255, 0, 0);}
+#maisopções{font-size: 20px;}
+
+#mudarpg{font-size: 30px; color: rgb(255, 0, 0);}
 
 footer{font-size: 25px;}
